@@ -23,5 +23,12 @@ The telegram profile links to the bot, which is hosted on a cloudflare worker.
 - /start your bot
 - use it 100% free
 
+## `spotify-awesome-playlists`
+
+This script allows me to track my playlists on Spotify categorized.
+
+- Create app on https://developer.spotify.com/
+- Deploy python bot on heroku
+
 
 ## `More coming soon`
